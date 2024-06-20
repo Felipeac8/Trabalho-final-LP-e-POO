@@ -104,7 +104,7 @@ O código é dividido em várias classes:
 - Os usuários podem clicar no ícone do carrinho ou no botão "Carrinho" para ver os jogos adicionados ao carrinho.
 - Os usuários podem clicar no botão "Login" para acessar a tela de login.
 
-- ![Exemplo de GIF](https://imgur.com/pgdoSZm)
+- ![Exemplo de GIF](https://i.imgur.com/pgdoSZm.mp4)
 
 
 ### **Tela do Carrinho**
