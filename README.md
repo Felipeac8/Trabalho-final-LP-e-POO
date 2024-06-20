@@ -11,7 +11,9 @@
 
 
 
-[![Video Title]([https://img.youtube.com/vi/{VIDEO_ID}/0.jp](https://youtu.be/MFqCB2wHStI)g)](https://github.com/usuario/repo/issues/{ISSUE_NUMBER})
+## **Vídeo Demonstrativo**
+
+[![Assistir o vídeo](https://img.youtube.com/vi/MFqCB2wHStI/0.jpg)](https://www.youtube.com/watch?v=MFqCB2wHStI)
 
 ## **Índice**
 
@@ -101,6 +103,9 @@ O código é dividido em várias classes:
 - Os usuários podem clicar nos jogos para ver mais detalhes.
 - Os usuários podem clicar no ícone do carrinho ou no botão "Carrinho" para ver os jogos adicionados ao carrinho.
 - Os usuários podem clicar no botão "Login" para acessar a tela de login.
+
+- ![Exemplo de GIF](https://imgur.com/pgdoSZm)
+
 
 ### **Tela do Carrinho**
 
