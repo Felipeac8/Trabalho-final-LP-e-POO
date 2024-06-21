@@ -104,14 +104,14 @@ O código é dividido em várias classes:
 - Os usuários podem clicar no ícone do carrinho ou no botão "Carrinho" para ver os jogos adicionados ao carrinho.
 - Os usuários podem clicar no botão "Login" para acessar a tela de login.
 
-- ![Exemplo de GIF](https://i.imgur.com/pgdoSZm.mp4)
-
-
 ### **Tela do Carrinho**
 
 - A tela do carrinho exibe os jogos que o usuário adicionou.
 - Os usuários podem remover jogos do carrinho.
 - (Em desenvolvimento) A tela de pagamento ainda não está implementada.
+
+### **Demonstração do projeto**
+[![Assistir o vídeo](https://youtu.be/iv6Xpvt3xwM)
 
 ## **Próximos Passos**
 
