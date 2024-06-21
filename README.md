@@ -111,7 +111,8 @@ O código é dividido em várias classes:
 - (Em desenvolvimento) A tela de pagamento ainda não está implementada.
 
 ### **Demonstração do projeto**
-[![Assistir o vídeo](https://youtu.be/iv6Xpvt3xwM)
+[![Texto Alternativo](https://img.youtube.com/vi/iv6Xpvt3xwM/0.jpg)](https://youtu.be/iv6Xpvt3xwM "Clique para assistir ao vídeo!")
+
 
 ## **Próximos Passos**
 
